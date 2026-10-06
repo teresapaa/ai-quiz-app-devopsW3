@@ -20,6 +20,8 @@ Do not edit the content between the markers manually, it will be
 overwritten on the next workflow run.
 
 <!--START_SECTION:activity-->
+1. 🌍 Made repository public [teresapaa/ai-quiz-app-devopsW3](https://github.com/teresapaa/ai-quiz-app-devopsW3)
+2. 📝 Committed to main in [teresapaa/ai-quiz-app-devopsW3](https://github.com/teresapaa/ai-quiz-app-devopsW3/commit/a7ec1df1612305275697baa51524099995e02e28)
 <!--END_SECTION:activity-->
 
 ## About Me
