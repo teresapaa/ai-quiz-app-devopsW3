@@ -15,7 +15,7 @@ Recent Activities section below in sync.
 ## Recent Activities
 
 The section below is automatically updated by a GitHub Actions workflow.
-Do not edit the content between the markers manually — it will be
+Do not edit the content between the markers manually, it will be
 overwritten on the next workflow run.
 
 <!--START_SECTION:activity-->
