@@ -3,7 +3,7 @@
 A web application for taking quizzes and generating new ones with the help
 of generative AI. This repository hosts the project for the DevOps course
 (Assignment 3), including an auto-updating README pipeline that keeps the
-Recent Activities section below in sync.
+Recent Activities section below in sync. 
 
 ## Features (planned)
 
