@@ -11,6 +11,7 @@ Recent Activities section below in sync.
 - Generate new quizzes from a topic prompt using an LLM
 - Email/password authentication
 - Track quiz attempts and scores
+- Export quizzes as pdf
 
 ## Recent Activities
 
