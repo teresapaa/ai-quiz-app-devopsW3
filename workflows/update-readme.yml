@@ -1,0 +1,21 @@
+name: Update README with Recent Activity
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update GitHub Activity in README
+        uses: TheDanniCraft/activity-log@v1
+        with:
+          GITHUB_USERNAME: "teresapaa"
+          GITHUB_TOKEN: ${{ secrets.REPO_TOKEN }}
+          COMMIT_MSG: "chore: update recent activity section"
