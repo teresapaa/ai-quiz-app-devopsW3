@@ -18,4 +18,4 @@ jobs:
         with:
           GITHUB_USERNAME: "teresapaa"
           GITHUB_TOKEN: ${{ secrets.REPO_TOKEN }}
-          COMMIT_MSG: "chore: update recent activity section"
+          COMMIT_MESSAGE: "chore: update recent activity section"
