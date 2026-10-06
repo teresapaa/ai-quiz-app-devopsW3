@@ -1,48 +1,35 @@
 # AI Quiz App
 
-A web application that lets users take quizzes and create new ones with the
-help of generative AI. Users describe a topic, and the app generates a
-multiple-choice quiz using an LLM.
+A web application for taking quizzes and generating new ones with the help
+of generative AI. This repository hosts the project for the DevOps course
+(Assignment 3), including an auto-updating README pipeline that keeps the
+Recent Activities section below in sync.
 
-## Features
+## Features (planned)
 
 - Browse and take quizzes
 - Generate new quizzes from a topic prompt using an LLM
 - Email/password authentication
 - Track quiz attempts and scores
 
-## Tech Stack
+## Recent Activities
 
-- Frontend: React
-- Backend: FastAPI (Python)
-- Database: PostgreSQL
-- LLM: OpenAI API
+The section below is automatically updated by a GitHub Actions workflow.
+Do not edit the content between the markers manually — it will be
+overwritten on the next workflow run.
 
-## Getting Started
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-```bash
-# clone the repo
-git clone https://github.com/teresapaa/ai-quiz-app-devopsW3.git
-cd ai-quiz-app-devopsW3
+## About Me
 
-```
+<!-- MYLINKS:START -->
+<!-- MYLINKS:END -->
 
 ## Project Management
 
-Development is tracked on the [AI Quiz App - devopsW3 GitHub Project](https://github.com/users/teresapaa/projects/2).
-Each feature issue is linked to a PR that auto-closes the issue on merge.
-
-## Recent Activity
-
-The section below is automatically updated by a GitHub Actions workflow
-(`.github/workflows/update-readme.yml`) on a daily schedule and on manual
-dispatch. It lists the most recent commits to `main`. Do not edit the
-content between the markers manually — it will be overwritten on the next
-workflow run.
-
-<!-- RECENT_ACTIVITY:START -->
-_No activity recorded yet. The workflow will populate this section on its next run._
-<!-- RECENT_ACTIVITY:END -->
+Development is tracked on the AI Quiz App - devopsW3 GitHub Project.
+Feature issues are linked to PRs that auto-close them on merge.
 
 ## License
 
